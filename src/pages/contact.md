@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: Contact Us
+img_path: /images/logo-smaller.jpg
 menus:
   main:
     title: Contact
     weight: 5
 template: contact
 ---
-
-To get in touch fill the form below.
+Please fill the form below.
