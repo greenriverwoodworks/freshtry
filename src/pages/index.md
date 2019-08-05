@@ -3,7 +3,7 @@ title: Home
 sections:
   - component: HeroBlock
     content: 'Custom Cabinetry, Millwork, & Finishing'
-    section_id: hero
+    section_id: ''
     type: heroblock
   - actions: []
     component: ContentBlock
