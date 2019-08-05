@@ -1,7 +1,7 @@
 ---
 title: 'About '
 subtitle: ''
-img_path: /images/20190729_114000.jpg
+img_path: /images/webp.net-resizeimage-1-.jpg
 menus:
   main:
     title: About
