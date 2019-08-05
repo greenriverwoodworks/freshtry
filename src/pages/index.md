@@ -19,7 +19,7 @@ sections:
     component: PostsBlock
     num_posts_displayed: 4
     section_id: recent-posts
-    title: Recent Posts
+    title: Recent Work
     type: postsblock
 menus:
   main:
