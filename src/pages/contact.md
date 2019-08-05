@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-img_path: /images/fullcolor_icononly_1024x1024_72dpi.jpg
+img_path: /images/webp.net-resizeimage.jpg
 menus:
   main:
     title: Contact
